@@ -1,0 +1,28 @@
+body{
+	background: url("https://static1.squarespace.com/static/522f7cdbe4b056ca5e8127f6/5660392ae4b069d2e2e5d116/56603b26e4b0acd8ed30ea53/1449147175246/My-Digital-Life-BG.jpg?format=2500w") no-repeat fixed top;
+	background-size: 100%;
+}
+input{
+	border: none;
+}
+#exph{
+	font-family: lato;
+	text-align: center;
+	text-shadow: 0 0 2px;
+}
+#line{
+	text-shadow: 0 0 10px;
+	text-align: center;
+	position: relative;
+}
+#explist{
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	padding-right: 35px;
+}
+#explist a{
+	text-shadow: 0 0 2px;
+	text-decoration: none;
+	color: green;
+}
